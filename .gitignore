@@ -1,0 +1,11 @@
+alf_data
+alf_data_dev
+dev_data
+*.log
+*.log.*
+target/
+.idea/
+*.iml
+*.project
+.settings/
+.classpath

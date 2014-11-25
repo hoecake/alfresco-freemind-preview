@@ -1,0 +1,15 @@
+<extension>
+	<modules>
+		<module>
+			<id>FreemindPreview</id>
+			<description>Preview for freemind mindmaps</description>
+			<version>1.0</version>
+			<customizations>
+                <customization>
+                    <targetPackageRoot>org.alfresco.components.preview</targetPackageRoot>
+                    <sourcePackageRoot>de.trier.hs.alfresco.freemindpreview</sourcePackageRoot>
+                </customization>
+			</customizations>
+		</module>
+	</modules>
+</extension>

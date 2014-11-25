@@ -1,0 +1,12 @@
+.web-preview .previewer {
+    overflow: visible;
+    border: 1px solid #c0c0c0;
+    width: 100%;
+    min-height: 600px !important;
+    height: 600px !important;
+}
+
+p {
+	font-family: Arial;
+	color: #664400;
+}
